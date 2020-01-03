@@ -1,0 +1,4 @@
+OBJECT_BASE 1940052.btg
+OBJECT TDCF.btg
+OBJECT_SHARED Models/Airport/windsock.xml -61.392668 15.335489 5.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -61.392088 15.341050 7.3 0.00
