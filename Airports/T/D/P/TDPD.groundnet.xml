@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Ramp_Start_3" lat="N15 32.740157" lon="W61 18.075041" heading="-109.94"  radius="18" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_Start_2" lat="N15 32.760509" lon="W61 18.013952" heading="-109.94"  radius="18" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_Start_1" lat="N15 32.777300" lon="W61 17.970292" heading="-109.94"  radius="18" airlineCodes="" />
+ </parkingList>
+ <TaxiNodes>
+        <node index="3" lat="N15 32.721839" lon="W61 18.135100" isOnRunway="0" holdPointType="none"  />
+        <node index="4" lat="N15 32.722225" lon="W61 18.088043" isOnRunway="0" holdPointType="none"  />
+        <node index="5" lat="N15 32.721923" lon="W61 18.110902" isOnRunway="0" holdPointType="none"  />
+        <node index="6" lat="N15 32.771425" lon="W61 17.952221" isOnRunway="0" holdPointType="none"  />
+        <node index="7" lat="N15 32.785270" lon="W61 17.956499" isOnRunway="0" holdPointType="none"  />
+        <node index="8" lat="N15 32.783960" lon="W61 17.943553" isOnRunway="0" holdPointType="none"  />
+        <node index="9" lat="N15 32.811007" lon="W61 17.890771" isOnRunway="0" holdPointType="none"  />
+        <node index="10" lat="N15 32.814828" lon="W61 17.877224" isOnRunway="0" holdPointType="none"  />
+        <node index="11" lat="N15 32.709086" lon="W61 18.141090" isOnRunway="0" holdPointType="none"  />
+ </TaxiNodes>
+</groundnet>
