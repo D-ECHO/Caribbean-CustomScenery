@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ndb.ac -61.270861 15.86975 9.42 180
+OBJECT_SHARED Models/Power/windturbine.xml -61.27351617 15.872061 35.51 0
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.268889 15.871944 -23.49 180
+OBJECT_SHARED Models/Residential/Terrace6_1.ac -61.27351592 15.86911352 7 12
+OBJECT_SHARED Models/Airport/hangar2.ac -61.27197195 15.86924796 8.02 8
+OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml -61.27346749 15.86867871 6.08 180
+OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml -61.27160298 15.86900528 7.63 16
+OBJECT_SHARED Models/Aircraft/rafaleM_lowpoly.ac -61.27177234 15.86898122 7.51 100
+OBJECT_SHARED Models/Aircraft/dauphin.xml -61.27325938 15.86867326 6.17 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -61.2724247 15.86908531 7.46 188
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -61.27233155 15.86980005 17.89 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -61.27268584 15.86912875 7.44 0

@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.589444 16.2275 -36.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.525 16.227778 -118.36 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.519444 16.240278 -92.93 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -61.546389 16.249444 -443.61 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -61.5317 16.2167 -0.01 76.77
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -61.5283 16.2117 -0.13 7.66
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -61.5317 16.2133 -0.04 233.53
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -61.53 16.2133 -0.04 69.82

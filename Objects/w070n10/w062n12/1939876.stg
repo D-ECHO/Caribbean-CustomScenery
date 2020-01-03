@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -61.4138092 12.5933474 -0.02 210.18
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -61.4109615 12.5922397 -0.05 64.53
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -61.406147 12.5931123 -0.06 261.89
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -61.4157475 12.5926924 0 182.39

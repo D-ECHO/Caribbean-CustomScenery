@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ils.xml -61.541867 16.266028 3.97 260.28
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.579722 16.250556 -123.53 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.578889 16.251944 -120.7 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -61.533056 16.251944 -136.67 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -61.540111 16.265167 9.43 180
+OBJECT_SHARED Models/Airport/localizer.xml -61.513075 16.261825 20.38 190.95
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -61.5248197 16.2626734 5.96 348
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -61.5245835 16.2626259 6.03 348
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac -61.5243289 16.2625777 6.13 348
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -61.5240524 16.2625253 6.23 348
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -61.5232229 16.2623882 6.61 348
+OBJECT_SHARED Models/Aircraft/dhc6_green_lowpoly.ac -61.5228646 16.2623308 6.81 348
