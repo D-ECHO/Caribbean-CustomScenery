@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_9" lat="N14 35.440426" lon="W61 0.810683" heading="-173.3"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_27" lat="N14 35.618602" lon="W60 59.797164" heading="170"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp" lat="N14 35.753129" lon="W61 0.230847" heading="-205.62"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="Military_Ramp" lat="N14 35.114738" lon="W61 1.302976" heading="80"  radius="17" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_G31" lat="N14 35.583810" lon="W61 0.347449" heading="169.62"  radius="17" airlineCodes="" />
+        <Parking index="5" type="gate" name="Z_Holding_Area_Z1" lat="N14 35.455801" lon="W61 0.832459" heading="153.32"  radius="17" airlineCodes="" />
+        <Parking index="6" type="gate" name="Terminal_Spot_1" lat="N14 35.717801" lon="W61 0.079011" heading="48"  radius="17" airlineCodes="" />
+        <Parking index="7" type="gate" name="Terminal_Spot_3" lat="N14 35.688100" lon="W61 0.025329" heading="20"  radius="17" airlineCodes="" />
+        <Parking index="8" type="gate" name="Terminal_Spot_5" lat="N14 35.675759" lon="W60 59.940832" heading="-8.06"  radius="17" airlineCodes="" />
+        <Parking index="9" type="gate" name="Terminal_Spot_8" lat="N14 35.692367" lon="W60 59.848936" heading="347.69"  radius="17" airlineCodes="" />
+        <Parking index="10" type="gate" name="Terminal_Spot_9" lat="N14 35.660514" lon="W60 59.948869" heading="193.48"  radius="17" airlineCodes="" />
+        <Parking index="11" type="gate" name="Terminal_Spot_10" lat="N14 35.659240" lon="W60 59.908172" heading="105.68"  radius="17" airlineCodes="" />
+        <Parking index="12" type="gate" name="Terminal_Spot_11" lat="N14 35.663035" lon="W60 59.906123" heading="284.4"  radius="17" airlineCodes="" />
+        <Parking index="13" type="gate" name="Terminal_Spot_12" lat="N14 35.679514" lon="W60 59.864005" heading="108.72"  radius="17" airlineCodes="" />
+        <Parking index="14" type="gate" name="Terminal_Spot_13" lat="N14 35.670973" lon="W60 59.866174" heading="104.81"  radius="17" airlineCodes="" />
+        <Parking index="15" type="gate" name="Terminal_Spot_14" lat="N14 35.675278" lon="W60 59.864123" heading="-74.04"  radius="17" airlineCodes="" />
+        <Parking index="16" type="gate" name="Terminal_Spot_15" lat="N14 35.672050" lon="W60 59.831257" heading="31"  radius="17" airlineCodes="" />
+ </parkingList>
+</groundnet>

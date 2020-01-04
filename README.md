@@ -22,3 +22,9 @@ Following sources have been used:
 Thanks to _laserman_ for scripts to process airport data files into groundnets (https://github.com/mherweg/d-laser-fgtools)!
 
 For the developments files, please see https://github.com/D-ECHO/Caribbean-CustomScenery-dev
+
+##How can I help?
+There are two areas in which everyone can contribute quite easily.
+You can either improve airports using the World Editor (WED). See https://developer.x-plane.com/tools/worldeditor/ for more information.
+Also, improving the available landcover data by contributing to OpenStreetMap (https://www.openstreetmap.org) helps improving this scenery a lot.
+Thank you!

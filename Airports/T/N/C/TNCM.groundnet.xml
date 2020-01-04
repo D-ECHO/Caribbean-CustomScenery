@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="A_Apron_position_A1" lat="N18 2.591121" lon="W63 6.857928" heading="351.45"  radius="36" airlineCodes="ROU,FWI,AFR,TSC,AAL,DAL,KLM,VKG,TFL,UAL,WJA" />
+        <Parking index="1" type="gate" name="A_Apron_position_A2" lat="N18 2.596760" lon="W63 6.816782" heading="351.45"  radius="36" airlineCodes="ROU,FWI,AFR,TSC,AAL,DAL,KLM,VKG,TFL,UAL,WJA" />
+        <Parking index="2" type="gate" name="A_Apron_position_A3" lat="N18 2.603399" lon="W63 6.775922" heading="351.45"  radius="36" airlineCodes="ROU,FWI,AFR,TSC,AAL,DAL,KLM,VKG,TFL,UAL,WJA" />
+        <Parking index="3" type="gate" name="A_Apron_position_A4" lat="N18 2.607723" lon="W63 6.734834" heading="351.45"  radius="20" airlineCodes="CMP,EDR,INC,NLU,JBU,PWD,NKS,SCX,SWG" />
+        <Parking index="4" type="gate" name="B_Apron_north_position_B1" lat="N18 2.583751" lon="W63 6.898372" heading="351.45"  radius="20" airlineCodes="CMP,EDR,INC,NLU,JBU,PWD,NKS,SCX,SWG" />
+        <Parking index="5" type="gate" name="B_Apron_north_position_B2" lat="N18 2.558069" lon="W63 6.930618" heading="321.45"  radius="20" airlineCodes="GUY,WIA,LIA,SBS,BWA" />
+        <Parking index="6" type="gate" name="B_Apron_north_position_B3" lat="N18 2.537043" lon="W63 6.947628" heading="321.45"  radius="20" airlineCodes="GUY,WIA,LIA,SBS,BWA" />
+        <Parking index="7" type="gate" name="B_Apron_south_position_B4" lat="N18 2.494599" lon="W63 6.845680" heading="171.45"  radius="20" airlineCodes="CMP,EDR,INC,NLU,JBU,PWD,NKS,SCX,SWG" />
+        <Parking index="8" type="gate" name="B_Apron_south_position_B5" lat="N18 2.498480" lon="W63 6.819202" heading="171.45"  radius="20" airlineCodes="CMP,EDR,INC,NLU,JBU,PWD,NKS,SCX,SWG" />
+        <Parking index="9" type="gate" name="C_Apron_north_position_C1" lat="N18 2.555146" lon="W63 6.655552" heading="216.79"  radius="10" airlineCodes="" />
+        <Parking index="10" type="gate" name="C_Apron_north_position_C2" lat="N18 2.563395" lon="W63 6.676073" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="11" type="gate" name="C_Apron_north_position_C3" lat="N18 2.559941" lon="W63 6.694797" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="12" type="gate" name="C_Apron_north_position_C4" lat="N18 2.557491" lon="W63 6.713438" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="13" type="gate" name="C_Apron_north_position_C5" lat="N18 2.548706" lon="W63 6.733532" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="14" type="gate" name="C_Apron_north_position_C6" lat="N18 2.540421" lon="W63 6.748742" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="15" type="gate" name="C_Apron_south_position_C7" lat="N18 2.510744" lon="W63 6.743833" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="16" type="gate" name="C_Apron_south_position_C8" lat="N18 2.513306" lon="W63 6.725310" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="17" type="gate" name="C_Apron_south_position_C9" lat="N18 2.516146" lon="W63 6.706872" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="18" type="gate" name="C_Apron_south_position_C10" lat="N18 2.518596" lon="W63 6.688231" heading="171.45"  radius="18" airlineCodes="" />
+        <Parking index="19" type="gate" name="C_Apron_south_position_C11" lat="N18 2.530372" lon="W63 6.636897" heading="171.45"  radius="18" airlineCodes="WIA" />
+        <Parking index="20" type="gate" name="C_Apron_south_position_C12" lat="N18 2.533118" lon="W63 6.619000" heading="171.45"  radius="18" airlineCodes="WIA" />
+        <Parking index="21" type="gate" name="E_Apron_position_1" lat="N18 2.539865" lon="W63 6.604427" heading="171.45"  radius="10" airlineCodes="" />
+        <Parking index="22" type="gate" name="E_Apron_position_2" lat="N18 2.541462" lon="W63 6.593625" heading="171.45"  radius="10" airlineCodes="" />
+        <Parking index="23" type="gate" name="E_Apron_position_3" lat="N18 2.542946" lon="W63 6.583210" heading="171.45"  radius="10" airlineCodes="" />
+        <Parking index="24" type="gate" name="E_Apron_position_4" lat="N18 2.544423" lon="W63 6.572757" heading="171.45"  radius="10" airlineCodes="" />
+        <Parking index="25" type="gate" name="E_Apron_position_7" lat="N18 2.504461" lon="W63 6.567562" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="26" type="gate" name="E_Apron_position_8" lat="N18 2.506315" lon="W63 6.553465" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="27" type="gate" name="E_Apron_position_9" lat="N18 2.508546" lon="W63 6.538993" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="28" type="ga" name="F_Apron_position_1" lat="N18 2.511891" lon="W63 6.487534" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="29" type="ga" name="F_Apron_position_2" lat="N18 2.513201" lon="W63 6.478717" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="30" type="ga" name="F_Apron_position_3" lat="N18 2.514489" lon="W63 6.469778" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="31" type="ga" name="F_Apron_position_4" lat="N18 2.515751" lon="W63 6.460856" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="32" type="ga" name="F_Apron_position_5" lat="N18 2.519407" lon="W63 6.433658" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="33" type="ga" name="F_Apron_position_6" lat="N18 2.520704" lon="W63 6.424936" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="34" type="ga" name="F_Apron_position_7" lat="N18 2.522009" lon="W63 6.415876" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="35" type="ga" name="F_Apron_position_8" lat="N18 2.523273" lon="W63 6.406940" heading="351.45"  radius="10" airlineCodes="" />
+        <Parking index="36" type="gate" name="G_Apron_position_1" lat="N18 2.465721" lon="W63 5.972523" heading="26.3"  radius="10" airlineCodes="" />
+        <Parking index="37" type="gate" name="G_Apron_position_2" lat="N18 2.468954" lon="W63 5.951813" heading="28.83"  radius="10" airlineCodes="" />
+        <Parking index="38" type="gate" name="G_Apron_position_3" lat="N18 2.473070" lon="W63 5.927316" heading="33.06"  radius="10" airlineCodes="" />
+        <Parking index="39" type="gate" name="G_Apron_position_4" lat="N18 2.478356" lon="W63 5.896318" heading="302.52"  radius="10" airlineCodes="" />
+        <Parking index="40" type="ga" name="H_Apron_position_H1" lat="N18 2.495522" lon="W63 5.854967" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="41" type="ga" name="H_Apron_position_H2" lat="N18 2.497900" lon="W63 5.839126" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="42" type="ga" name="H_Apron_position_H3" lat="N18 2.500183" lon="W63 5.823282" heading="351.45"  radius="18" airlineCodes="" />
+        <Parking index="43" type="gate" name="West_Apron_position_1" lat="N18 2.454807" lon="W63 7.117514" heading="231.87"  radius="18" airlineCodes="" />
+        <Parking index="44" type="gate" name="West_Apron_position_2" lat="N18 2.464185" lon="W63 7.104833" heading="142.99"  radius="18" airlineCodes="" />
+        <Parking index="45" type="gate" name="West_Apron_position_3" lat="N18 2.463555" lon="W63 7.055241" heading="226.6"  radius="18" airlineCodes="" />
+        <Parking index="46" type="gate" name="West_Apron_position_4" lat="N18 2.473944" lon="W63 7.046299" heading="129.76"  radius="18" airlineCodes="" />
+        <Parking index="47" type="gate" name="West_Apron_position_5" lat="N18 2.484561" lon="W63 7.022795" heading="166.09"  radius="18" airlineCodes="" />
+ </parkingList>
+</groundnet>

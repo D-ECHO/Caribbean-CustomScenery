@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="2" lat="N18 12.375695" lon="W63 3.157639" heading="180.6"  radius="32" airlineCodes="" />
+        <Parking index="1" type="gate" name="6" lat="N18 12.380160" lon="W63 3.102954" heading="180.6"  radius="32" airlineCodes="" />
+        <Parking index="2" type="gate" name="9" lat="N18 12.335756" lon="W63 3.111154" heading="318.01"  radius="32" airlineCodes="" />
+        <Parking index="3" type="gate" name="10" lat="N18 12.339040" lon="W63 3.069098" heading="305.91"  radius="32" airlineCodes="" />
+        <Parking index="4" type="gate" name="8" lat="N18 12.381020" lon="W63 3.075960" heading="180"  radius="20" airlineCodes="" />
+        <Parking index="5" type="gate" name="7" lat="N18 12.381334" lon="W63 3.089954" heading="177.84"  radius="20" airlineCodes="" />
+        <Parking index="6" type="gate" name="5" lat="N18 12.381337" lon="W63 3.116689" heading="178.45"  radius="32" airlineCodes="" />
+        <Parking index="7" type="gate" name="4" lat="N18 12.381175" lon="W63 3.129317" heading="181.97"  radius="32" airlineCodes="" />
+        <Parking index="8" type="gate" name="3" lat="N18 12.381020" lon="W63 3.143451" heading="180"  radius="32" airlineCodes="" />
+        <Parking index="9" type="gate" name="1" lat="N18 12.378665" lon="W63 3.189866" heading="139.97"  radius="32" airlineCodes="" />
+ </parkingList>
+</groundnet>
