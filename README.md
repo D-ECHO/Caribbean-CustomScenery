@@ -17,7 +17,7 @@ Following sources have been used:
 * SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/
 * Landcover Data from https://www.openstreetmap.org/export and https://osmdata.openstreetmap.de/data/land-polygons.html
 * Airport Data from https://gateway.x-plane.com
-* Objects from FlightGear's terrasync (see scenery.flightgear.org)
+* Objects either from FlightGear's terrasync (see scenery.flightgear.org), Lukas' Flightgear hangar (https://lukashangar.jimdofree.com/scenery/caribbean-airports/) or placed manually
 
 Thanks to _laserman_ for scripts to process airport data files into groundnets (https://github.com/mherweg/d-laser-fgtools)!
 
