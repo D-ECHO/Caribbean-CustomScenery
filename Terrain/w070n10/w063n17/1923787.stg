@@ -1,4 +1,4 @@
 OBJECT_BASE 1923787.btg
 OBJECT TKPN.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml -62.595128 17.205981 7.2 0.00
-OBJECT_SHARED Models/Airport/beacon.xml -62.590802 17.204234 13.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -62.595128 17.205981 6.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -62.590802 17.204234 14.4 0.00
