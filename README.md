@@ -14,12 +14,13 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  
 Following sources have been used:
 
-* SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/
+* SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/ partially edited
 * Landcover Data from https://www.openstreetmap.org/export and https://osmdata.openstreetmap.de/data/land-polygons.html
 * Airport Data from https://gateway.x-plane.com
 * Objects either from FlightGear's terrasync (see scenery.flightgear.org), Lukas' Flightgear hangar (https://lukashangar.jimdofree.com/scenery/caribbean-airports/) or placed manually
 
-Thanks to _laserman_ for scripts to process airport data files into groundnets (https://github.com/mherweg/d-laser-fgtools)!
+Thanks to _laserman_ for scripts to process airport data files into groundnets (https://github.com/mherweg/d-laser-fgtools)!  
+A huge thanks goes to _SurferTim_ via the FlightGear forums (forum.flightgear.org) for a tool to edit HGT files (https://forum.flightgear.org/viewtopic.php?f=5&t=36077&start=90#p359458) and his work on editing the HGT file including TFFJ to fit real life data and imagery.
 
 For the developments files, please see https://github.com/D-ECHO/Caribbean-CustomScenery-dev
 
