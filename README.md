@@ -20,7 +20,7 @@ Following sources have been used:
 * Objects either from FlightGear's terrasync (see scenery.flightgear.org), Lukas' Flightgear hangar (https://lukashangar.jimdofree.com/scenery/caribbean-airports/) or placed manually
 
 Thanks to _laserman_ for scripts to process airport data files into groundnets (https://github.com/mherweg/d-laser-fgtools)!  
-A huge thanks goes to _SurferTim_ via the FlightGear forums (forum.flightgear.org) for a tool to edit HGT files (https://forum.flightgear.org/viewtopic.php?f=5&t=36077&start=90#p359458) and his work on editing the HGT file including TFFJ to fit real life data and imagery.
+A huge thanks goes to _SurferTim_ via the FlightGear forums (forum.flightgear.org) for a tool to edit HGT files (https://forum.flightgear.org/viewtopic.php?f=5&t=36077&start=90#p359458) and his work on editing the HGT file including TFFJ to fit real life data and imagery. Also, thanks to him for providing a nav.dat file to enable ILS approaches at TFFR (https://forum.flightgear.org/viewtopic.php?f=5&t=36077&p=359787#p359779).
 
 For the developments files, please see https://github.com/D-ECHO/Caribbean-CustomScenery-dev
 
