@@ -12,6 +12,10 @@ OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -62.8384538 17.9
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -62.8347971 17.9071617 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -62.8329273 17.9176658 -0.14 0
 OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -62.8322098 17.9133096 -0.08 72
+OBJECT_SHARED Models/Transport/hatchback_red.ac -62.84796545 17.90398653 40.7539 330.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -62.84761042 17.90404704 39.3691 270.0 -5.0 7.0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -62.84798898 17.90415939 40.7767 140.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupwhite1.ac -62.84800107 17.90436625 42.5670 90.0 0.0 4.0
 OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_lowpoly.ac -62.8461084 17.9046588 17.20 180
 OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -62.84614935 17.90362157 15.0165 0.0 0.0 -0.0
 OBJECT_STATIC aerogare_TFFJ.ac -62.844683 17.9035164 12.2 270
