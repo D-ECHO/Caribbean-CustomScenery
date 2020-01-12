@@ -13,4 +13,4 @@ OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -62.8347971 17.9
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -62.8329273 17.9176658 -0.14 0
 OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -62.8322098 17.9133096 -0.08 72
 OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_lowpoly.ac -62.8461084 17.9045988 16.90 180
-OBJECT_STATIC aerogare_TFFJ.ac -62.844683 17.9035164 14 270
+OBJECT_STATIC aerogare_TFFJ.ac -62.844683 17.9035164 12.2 270
