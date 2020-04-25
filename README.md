@@ -15,7 +15,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 Following sources have been used:
 
 * SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/ partially edited
-* Landcover Data from https://www.openstreetmap.org/export and https://osmdata.openstreetmap.de/data/land-polygons.html
+* Landcover Data from https://www.openstreetmap.org/export and https://osmdata.openstreetmap.de/data/land-polygons.html under ODbL 1.0
 * Airport Data from https://gateway.x-plane.com
 * Objects either from FlightGear's terrasync (see scenery.flightgear.org), Lukas' Flightgear hangar (https://lukashangar.jimdofree.com/scenery/caribbean-airports/) or placed manually
 
